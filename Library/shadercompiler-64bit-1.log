@@ -1,0 +1,26 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-8784
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=620 outsize=617 ok=1
+Cmd: preprocess
+  insize=711 outsize=292 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=718 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=718 outsize=729 kw= pd= ok=1
+Cmd: preprocess
+  insize=2229 outsize=556 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+  api=4 type=0 insize=1972 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=816 outsize=813 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4583 outsize=4093 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4583 outsize=1038 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4665 outsize=4093 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4665 outsize=1038 kw= pd= ok=1
